@@ -1,22 +1,28 @@
-# todo-list
-This is a simple To-Do List application built to practice front-end and/or full-stack development skills.
+# ✅ To do List
 
-It allows users to add, complete, and remove tasks. The project focuses on functionality, user interface, and clean code.
+A simple and interactive Todo List application built with HTML, CSS, and JavaScript.
 
----
+## 📌 About the Project
 
-## Features 
+This project was created to practice Front-End fundamentals, including DOM manipulation, JavaScript logic, and user interaction.
+
+## ✨ Features
+
 - Add new tasks
 - Mark tasks as completed
-- Delete tasks
-- Save tasks locally
+- Remove tasks
+- Interactive user interface
+- Dynamic task management
 
----
+## 🛠️ Technologies Used
 
-## Technologies used
-- HTML
-- CSS
-- JavaScript  
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
 
-## Getting Started
-https://github.com/amandacarolinedev
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/amandacarolinedev/javascript-todo-list.git
